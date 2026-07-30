@@ -17,5 +17,3 @@ contain this information.
 2) In case of an employee being late or leaving early, the corresponding 
 cells are highlighted in red as in the example.
 3) Before processing, the file MUST be converted to XLSX format, otherwise an error will occur.
-
-Translated with DeepL.com (free version)
